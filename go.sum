@@ -1,5 +1,5 @@
-github.com/maxcleme/go-ieproxy v0.0.8 h1:PPJYBNRmMKKvRA7Jus39LBo3APJnAkgWJ4MbygmMSlQ=
-github.com/maxcleme/go-ieproxy v0.0.8/go.mod h1:8Rba/CLIQ9zTY+9dT/3oORYs/QgwTPgQ0bYjlJfAfVI=
+github.com/maxcleme/go-ieproxy v0.0.9 h1:BfwICTrkdLXI9tLRLZyu7E5ufuIHOfW1pkg/TCjeZD8=
+github.com/maxcleme/go-ieproxy v0.0.9/go.mod h1:8Rba/CLIQ9zTY+9dT/3oORYs/QgwTPgQ0bYjlJfAfVI=
 golang.org/x/net v0.0.0-20220107192237-5cfca573fb4d h1:62NvYBuaanGXR2ZOfwDFkhhl6X1DUgf8qg3GuQvxZsE=
 golang.org/x/net v0.0.0-20220107192237-5cfca573fb4d/go.mod h1:9nx3DQGgdP8bBQD5qxJ1jj9UTztislL4KSBs9R2vV5Y=
 golang.org/x/sys v0.0.0-20201119102817-f84b799fce68/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
